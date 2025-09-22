@@ -1,7 +1,7 @@
 from idlelib import testing
 
 
-token = ''
+token = '7357996886:AAGK32_SX4tmEp5Davt6jzrNpJQOWeqCE1g'
 
 
 from types import NoneType
